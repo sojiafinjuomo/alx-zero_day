@@ -1,1 +1,2 @@
- This vagrant project
+# README.md file
+Vagrant Project
